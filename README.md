@@ -38,4 +38,4 @@ C# · ASP.NET Core 8 · WPF / MVVM · Entity Framework Core · PostgreSQL · Sig
 
 ## İletişim
 
-Mustafa Gedik · [E-posta](mailto:gs.mustafagedik@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mustafa-gedik-null-556a461b2) · [GitHub](https://github.com/cpu-mustafa)
+Mustafa Gedik · [E-posta](mailto:gs.mustafagedik@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mustafa-gedik-556a461b2) · [GitHub](https://github.com/cpu-mustafa)
